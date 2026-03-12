@@ -1,0 +1,5 @@
+Szükséges hozzá Python 3.13 és pygame
+
+pip install pygame
+
+python main.py
